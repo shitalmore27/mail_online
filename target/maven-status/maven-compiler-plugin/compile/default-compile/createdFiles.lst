@@ -1,0 +1,10 @@
+pojo\APIRequestBuilder.class
+pojo\PetAPISteps.class
+Steps\StepAPI.class
+pojo\PetInfo.class
+Steps\MyStepdefs.class
+pojo\Category.class
+pojo\PetAPIResponse.class
+Runner\Runner.class
+pojo\Tag.class
+pages\MainPage.class
